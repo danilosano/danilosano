@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on back-end projects.
 - 🤔 I’m looking for help with my knowledge and experience.
 
+### Contact me:
  <a href="https://www.linkedin.com/in/danilosano/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&" alt="LinkedIn">
  </a>
