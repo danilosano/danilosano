@@ -14,6 +14,6 @@
   <img src="https://img.shields.io/badge/-Email-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&" alt="Email">
  </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=danilosano&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="status" title="status"/>&nbsp;
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=danilosano&theme=dark&show_icons=true&count_private=true&include_all_commits=true" alt="status" title="status"/>&nbsp;-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosano&theme=dark&layout=compact&langs_count=8" alt="languages" title="languages"/>
 
